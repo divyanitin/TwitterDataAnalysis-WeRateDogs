@@ -7,12 +7,12 @@ WeRateDogs downloaded their Twitter archive and shared it exclusively for use in
 
 ## Project Details
 Your tasks in this project are as follows:
-•	Data wrangling, which consists of:
+- Data wrangling, which consists of:
 o	Gathering data
 o	Assessing data
 o	Cleaning data
-•	Storing, analyzing, and visualizing your wrangled data
-•	Reporting on 1) your data wrangling efforts and 2) your data analyses and visualizations
+- Storing, analyzing, and visualizing your wrangled data
+-- Reporting on 1) your data wrangling efforts and 2) your data analyses and visualizations
 
 ## Gathering Data for this Project
 Gather each of the three pieces of data as described below in a Jupyter Notebook titled wrangle_act.ipynb:
