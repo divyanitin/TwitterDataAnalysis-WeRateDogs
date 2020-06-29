@@ -45,3 +45,5 @@ Analyze and visualize your wrangled data in your **wrangle_act.ipynb Jupyter Not
 Create a **300-600 word written report called wrangle_report.pdf** that briefly describes your wrangling efforts. This is to be framed as an internal document.
 Create a **>250 word written report called act_report.pdf** that communicates the insights and displays the visualization(s) produced from your wrangled data. This is to be framed as an external document, like a blog post or magazine article, for example.
 
+## Medium Blog on this Project
+You can check out my Blog, (Twitter Analytics: WeRateDogs)[https://towardsdatascience.com/twitter-analytics-weratedogs-a441be7d4a85?source=friends_link&sk=b1fa174b4808c69f30c299b3e83471fe] published in [Towards Data Science](https://medium.com/@divyanaidu).
