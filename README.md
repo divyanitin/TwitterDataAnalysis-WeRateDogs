@@ -37,7 +37,7 @@ Key points to keep in mind when data wrangling for this project:
 Clean each of the issues you documented while assessing. Perform this cleaning in wrangle_act.ipynb as well. The result should be a high quality and tidy master pandas DataFrame (or DataFrames, if appropriate).
 
 ## Storing, Analyzing, and Visualizing Data for this Project
-Store the clean DataFrame(s) in a CSV file with the main one named **twitter_archive_master.csv**. If additional files exist because multiple tables are required for tidiness, name these files appropriately. Additionally, you may store the cleaned data in a SQLite database (which is to be submitted as well if you do).
+Store the clean DataFrame(s) in a CSV file with the main one named **twitter_archive_master.csv**. If additional files exist because multiple tables are required for tidiness, name these files appropriately. Additionally, you may store the cleaned data in a SQLite database.
 
 Analyze and visualize your wrangled data in your **wrangle_act.ipynb Jupyter Notebook**. At least three (3) insights and one (1) visualization must be produced.
 
